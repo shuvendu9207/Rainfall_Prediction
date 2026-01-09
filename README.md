@@ -38,7 +38,7 @@ Understanding how to implement linear regression models can unearth stories in d
 
 ## Authors
 
-- [@MichaelTobiko](https://github.com/shuvendu9207)
+- [@shuvendu9207](https://github.com/shuvendu9207)
 
 
 ## API Reference
@@ -90,8 +90,7 @@ If int, then consider min_samples_split as the minimum number.
 If float, then min_samples_split is a fraction and ceil(min_samples_split * n_samples) are the minimum number of samples for each split.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tobiko-1563a693)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/MichaelTobiko)
+[![linkedin](https://www.vhv.rs/viewpic/iwhxJ_linkedin-logo-hd-png-download/)](https://www.linkedin.com/in/shuvendu-kumar-mohapatra)
 
 
 ## Demo
