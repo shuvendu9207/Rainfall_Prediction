@@ -90,7 +90,7 @@ If int, then consider min_samples_split as the minimum number.
 If float, then min_samples_split is a fraction and ceil(min_samples_split * n_samples) are the minimum number of samples for each split.
 
 ## 🔗 Links
-[![linkedin](https://www.vhv.rs/viewpic/iwhxJ_linkedin-logo-hd-png-download/)](https://www.linkedin.com/in/shuvendu-kumar-mohapatra)
+[![linkedin]([https://www.vhv.rs/viewpic/iwhxJ_linkedin-logo-hd-png-download/](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/shuvendu-kumar-mohapatra)
 
 
 ## Demo
